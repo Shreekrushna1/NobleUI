@@ -1,0 +1,97 @@
+
+.link-title-2 {
+    font-size: 14px;
+}
+
+.link-title-2:hover {
+    color: #6571ff;
+}
+
+.link-title-2 i:hover {
+    color: #6571ff;
+}
+.margin-icon {
+    margin-right: 30px;
+}
+
+.margin-icon-header {
+    margin-right: 20px;
+}
+
+.main-header input[type="search"] {
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-right: 10px;
+    border-style: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.search-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.body-container {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.card {
+    border: none;
+    width: 100%;
+}
+
+.card-padding {
+    padding: 12px 24px;
+}
+
+.market-green {
+    color: green;
+}
+
+.market-red {
+    color: red;
+}
+
+span.market-green {
+    font-size: 15px;
+}
+
+.revenue-container {
+    margin-left: 30px;
+}
+
+h6.revenue {
+    font-size: 15px;
+    font-weight: 10px;
+}
+
+p.revenue-description {
+    font-size: 14px;
+}
+
+.monthly-container {
+    margin-left: 30px;
+}
+
+h6.monthly {
+    font-size: 15px;
+    font-weight: 10px;
+}
+
+p.monthly-description {
+    font-size: 14px;
+}
+
+.btn-group {
+    display: inline-flex;
+    vertical-align: middle;
+    position: relative;
+}
